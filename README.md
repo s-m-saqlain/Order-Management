@@ -1,6 +1,6 @@
 # vue-order-sync
 
-(https://order-management-ivory-two.vercel.app/orders)  
+![Vue Order Sync Screenshot](./src/assets/Order-Management.png)  
 *A Vue 3 application for order management, built with the Composition API, Pinia, and Tailwind CSS. This project provides a responsive dashboard to view, filter, sort, and manage orders with pagination and completion toggling, using mock data.*
 
 ## Features
@@ -18,6 +18,7 @@
 src/
 ├── assets/
 │   ├── orders.css          # Styles for Orders.vue
+│   ├── screenshot.png      # Screenshot of the application
 │   └── tailwind.css        # Tailwind CSS configuration
 ├── components/
 │   └── icons/
@@ -106,6 +107,7 @@ npm run preview
 - `data.js` should contain ~100 orders; extend as needed.
 - Tailwind CSS is configured in `assets/tailwind.css`.
 - Vite powers fast development and builds.
+- Add a screenshot to `src/assets/screenshot.png` for the README image.
 
 ## Future Improvements
 
