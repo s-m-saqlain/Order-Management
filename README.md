@@ -1,6 +1,6 @@
 # vue-order-sync | [Live Demo](https://order-management-ivory-two.vercel.app)
 
-![Vue Order Sync Screenshot](./src/assets/screenshot.png)  
+![Vue Order Sync Screenshot](./src/assets/Order-Management.png)  
 *A Vue 3 application for order management, built with the Composition API, Pinia, and Tailwind CSS. This project provides a responsive dashboard to view, filter, sort, and manage orders with pagination and completion toggling, using mock data.*
 
 ## Features
