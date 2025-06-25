@@ -4,7 +4,7 @@ Features
 
 Order dashboard with stats for total, fulfilled, pending, and completed orders.
 Interactive table with sorting, filtering, and pagination (10 orders per page).
-Search by order number (numeric) and customer name with debounced inputs.
+Search by order number (numeric only) and customer name with debounced inputs.
 Toggle order completion with a button (disabled when completed).
 Responsive design optimized for mobile, tablet, and desktop.
 Reusable SVG icon component (Icon.vue) and externalized styles (orders.css).
@@ -29,7 +29,7 @@ src/
 └── data.js                 # Mock order data
 
 Recommended IDE Setup
-VSCode + Volar (and disable Vetur).
+VSCode + Volar (disable Vetur).
 Customize Configuration
 See Vite Configuration Reference.
 Project Setup
